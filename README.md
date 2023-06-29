@@ -1,5 +1,4 @@
 # Hashing to Elliptic Curves
----
 
 **IETF Data Tracker**: [draft-irtf-cfrg-hash-to-curve](https://datatracker.ietf.org/doc/draft-irtf-cfrg-hash-to-curve)
 
